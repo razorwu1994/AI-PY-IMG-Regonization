@@ -38,11 +38,13 @@ class PerceptronClassifier:
     
     self.features = trainingData[0].keys() # could be useful later
     # DO NOT ZERO OUT YOUR WEIGHTS BEFORE STARTING TRAINING
-    
+    print (len(trainingData))
+    #
     for iteration in range(self.max_iterations):
       print "Starting iteration ", iteration, "..."
       for i in range(len(trainingData)):
           "*** YOUR CODE HERE ***"
+          trainingData[i]
           util.raiseNotDefined()
     
   def classify(self, data ):
