@@ -102,8 +102,8 @@ class PerceptronClassifier:
 
     "*** YOUR CODE HERE ***"
     #-----------------------------------------------------------------------------------------------------------------
-    util.raiseNotDefined()
-
+    sortedKeys = self.weights[label].sortedKeys()
+    featuredWeights = sortedKeys[:100] # Get the top 100 keys
     #-----------------------------------------------------------------------------------------------------------------
 
     return featuresWeights
