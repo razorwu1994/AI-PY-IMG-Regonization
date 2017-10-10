@@ -21,7 +21,7 @@ class PerceptronClassifier:
       self.weights[label] = util.Counter() # this is the data-structure you should use
 
   def setWeights(self, weights):
-    assert len(weights) == len(self.legalLabels);
+    assert len(weights) == len(self.legalLabels.size);
     self.weights == weights;
       
   def train( self, trainingData, trainingLabels, validationData, validationLabels ):
@@ -42,9 +42,41 @@ class PerceptronClassifier:
     for iteration in range(self.max_iterations):
       print "Starting iteration ", iteration, "..."
       for i in range(len(trainingData)):
-          "*** YOUR CODE HERE ***"
-          util.raiseNotDefined()
-    
+        "*** YOUR CODE HERE ***"
+        #-----------------------------------------------------------------------------------------------------------------
+        " Find the assigned label of training data i "
+        alpha = 0.01 # Learning rate
+        
+        xKeys = trainingData[i].keys() # Keys for corresponding bits of training data
+        x = trainingData[i].values() # Input vector of trainingData[i]
+        xCounter = util.Counter()
+        for j in range(len(xKeys)):
+          xCounter[xKeys[j]] = x[j]
+        
+        scores = util.Counter()
+
+        for j in range(len(self.legalLabels)):
+          scores[j] = xCounter * self.weights[j]
+
+        # print "{}) scores[1] = {}".format(i, scores[1)
+        assignedLabel = scores.argMax()
+        # print "({}, {})".format(i, assignedLabel)
+
+        " Find the error "
+        trueLabel = trainingLabels[i]
+        labelDiff = trueLabel - assignedLabel
+
+        " If no error, label is correct, go to next data point "
+        if labelDiff == 0:
+          continue;
+
+        " Otherwise, update weights using perceptron learning rule w_i' <- w_i + a * (y - h(x)) * x_i "
+        " Need to update both the true label's weights y and the assigned label's weights y' "
+        xCounter.divideAll((1/alpha)) # multiply input with alpha
+        self.weights[assignedLabel] = self.weights[assignedLabel] -  xCounter # assigned label was incorrect, so decrease weights
+        self.weights[trueLabel] = self.weights[trueLabel] + xCounter # true label's was not picked, so increase weight based on true example x
+        #-----------------------------------------------------------------------------------------------------------------
+        
   def classify(self, data ):
     """
     Classifies each datum as the label that most closely matches the prototype vector
@@ -68,7 +100,10 @@ class PerceptronClassifier:
     featuresWeights = []
 
     "*** YOUR CODE HERE ***"
+    #-----------------------------------------------------------------------------------------------------------------
     util.raiseNotDefined()
+
+    #-----------------------------------------------------------------------------------------------------------------
 
     return featuresWeights
 
