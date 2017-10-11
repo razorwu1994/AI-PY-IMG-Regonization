@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.27)  11 OCT 2017 16:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.27)  11 OCT 2017 16:52
 entering extended mode
 **./problem-2.tex
 (problem-2.tex
@@ -294,29 +294,51 @@ File: Images/"problem-2-final".png Graphic file (type png)
 Package pdftex.def Info: Images/"problem-2-final".png used on input line 64.
 (pdftex.def)             Requested size: 361.35278pt x 271.01459pt.
  [4 <./Images/problem-2-step3.png> <./Images/problem-2-final.png>]
-<Images/"problem-3-a".png, id=27, 487.06969pt x 316.93407pt>
-File: Images/"problem-3-a".png Graphic file (type png)
+<Images/"problem-3-a-copy".png, id=27, 757.32938pt x 514.92375pt>
+File: Images/"problem-3-a-copy".png Graphic file (type png)
 
-<use Images/"problem-3-a".png>
-Package pdftex.def Info: Images/"problem-3-a".png used on input line 75.
-(pdftex.def)             Requested size: 389.65627pt x 253.54759pt.
- [5 <./Images/problem-3-a.png>] (problem-2.aux) ) 
+<use Images/"problem-3-a-copy".png>
+Package pdftex.def Info: Images/"problem-3-a-copy".png used on input line 77.
+(pdftex.def)             Requested size: 454.40114pt x 308.95662pt.
+
+Overfull \hbox (82.02596pt too wide) in paragraph at lines 77--78
+[][] 
+ []
+
+[5 <./Images/problem-3-a-copy.png>]
+<Images/"problem-3-c".png, id=31, 757.32938pt x 514.92375pt>
+File: Images/"problem-3-c".png Graphic file (type png)
+
+<use Images/"problem-3-c".png>
+Package pdftex.def Info: Images/"problem-3-c".png used on input line 108.
+(pdftex.def)             Requested size: 454.40114pt x 308.95662pt.
+
+Overfull \hbox (82.02596pt too wide) in paragraph at lines 108--109
+[][] 
+ []
+
+[6] [7 <./Images/problem-3-c.png>] (problem-2.aux) ) 
 Here is how much of TeX's memory you used:
- 1499 strings out of 493323
- 21637 string characters out of 3139066
+ 1504 strings out of 493323
+ 21792 string characters out of 3139066
  81871 words of memory out of 3000000
- 5050 multiletter control sequences out of 15000+200000
+ 5054 multiletter control sequences out of 15000+200000
  6071 words of font info for 22 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,5n,25p,249b,117s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr12.pfb>
-Output written on problem-2.pdf (5 pages, 133520 bytes).
+<C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on problem-2.pdf (7 pages, 215265 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 77 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
