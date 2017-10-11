@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.27)  11 OCT 2017 00:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.11)  11 OCT 2017 10:08
 entering extended mode
 **./problem-2.tex
 (problem-2.tex
@@ -69,20 +69,7 @@ LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 
-(C:\Users\Razor\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count88
-\scratchdimen=\dimen105
-\scratchbox=\box26
-\nofMPsegments=\count89
-\nofMParguments=\count90
-\everyMPshowfont=\toks15
-\MPscratchCnt=\count91
-\MPscratchDim=\dimen106
-\MPnumerator=\count92
-\makeMPintoPDFobject=\count93
-\everyMPtoPDFconversion=\toks16
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 
@@ -195,128 +182,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--29
 
  []
 
-[1
+! I can't write on file `problem-2.pdf'.
+Please type another file name for output
+! Emergency stop.
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.29 
+     
+*** (job aborted, file error in nonstop mode)
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<Images/"problem-2-step1".png, id=9, 602.25pt x 301.125pt>
-File: Images/"problem-2-step1".png Graphic file (type png)
-
-<use Images/"problem-2-step1".png>
-Package pdftex.def Info: Images/"problem-2-step1".png used on input line 32.
-(pdftex.def)             Requested size: 481.80064pt x 240.90031pt.
-
-Overfull \hbox (109.42546pt too wide) in paragraph at lines 32--34
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--45
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--45
-
- []
-
-
-Overfull \hbox (40.55504pt too wide) in paragraph at lines 35--45
-\OT1/cmr/m/n/14.4 Gain(Publication)=0.970950594455-[$[]$ B($[]$)+$[]$ B($[]$)]=
-0.970950594455-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--45
-
- []
-
-
-Overfull \hbox (26.73668pt too wide) in paragraph at lines 35--45
-\OT1/cmr/m/n/14.4 Gain(Recommendation)=0.970950594455-[$[]$ B($[]$)]=0.97095059
-4455-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--45
-
- []
-
-[2 <./Images/problem-2-step1.png>]
-<Images/"problem-2-step2".png, id=14, 602.25pt x 301.125pt>
-File: Images/"problem-2-step2".png Graphic file (type png)
-
-<use Images/"problem-2-step2".png>
-Package pdftex.def Info: Images/"problem-2-step2".png used on input line 48.
-(pdftex.def)             Requested size: 481.80064pt x 240.90031pt.
-
-Overfull \hbox (109.42546pt too wide) in paragraph at lines 48--50
-[][]
- []
-
-
-Overfull \hbox (82.84476pt too wide) in paragraph at lines 51--56
-\OT1/cmr/m/n/14.4 Gain(University)=0.918295834054-[$[]$ B($[]$)+$[]$ B($[]$)+$[
-]$ B($[]$)]=0.918295834054-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--56
-
- []
-
-
-Overfull \hbox (26.73668pt too wide) in paragraph at lines 51--56
-\OT1/cmr/m/n/14.4 Gain(Recommendation)=0.918295834054-[$[]$ B($[]$)]=0.91829583
-4054-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--56
-
- []
-
-<Images/"problem-2-step3".png, id=15, 602.25pt x 301.125pt>
-File: Images/"problem-2-step3".png Graphic file (type png)
-
-<use Images/"problem-2-step3".png>
-Package pdftex.def Info: Images/"problem-2-step3".png used on input line 59.
-(pdftex.def)             Requested size: 481.80064pt x 240.90031pt.
-
-Overfull \hbox (109.42546pt too wide) in paragraph at lines 59--60
-[][] 
- []
-
-[3 <./Images/problem-2-step2.png>]
-<Images/"problem-2-final".png, id=21, 602.25pt x 451.6875pt>
-File: Images/"problem-2-final".png Graphic file (type png)
-
-<use Images/"problem-2-final".png>
-Package pdftex.def Info: Images/"problem-2-final".png used on input line 64.
-(pdftex.def)             Requested size: 361.35278pt x 271.01459pt.
- [4 <./Images/problem-2-step3.png> <./Images/problem-2-final.png>]
-<Images/"problem-3-a".png, id=27, 487.06969pt x 316.93407pt>
-File: Images/"problem-3-a".png Graphic file (type png)
-
-<use Images/"problem-3-a".png>
-Package pdftex.def Info: Images/"problem-3-a".png used on input line 75.
-(pdftex.def)             Requested size: 389.65627pt x 253.54759pt.
- [5 <./Images/problem-3-a.png>] (problem-2.aux) ) 
+ 
 Here is how much of TeX's memory you used:
- 1499 strings out of 493323
- 21637 string characters out of 3139066
- 81871 words of memory out of 3000000
- 5050 multiletter control sequences out of 15000+200000
+ 1173 strings out of 493323
+ 16897 string characters out of 3139023
+ 78030 words of memory out of 3000000
+ 4738 multiletter control sequences out of 15000+200000
  6071 words of font info for 22 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,5n,25p,249b,117s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr12.pfb>
-Output written on problem-2.pdf (5 pages, 134276 bytes).
-PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 39i,4n,25p,249b,113s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
