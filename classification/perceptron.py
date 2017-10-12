@@ -44,7 +44,7 @@ class PerceptronClassifier:
       print "Starting iteration ", iteration, "..."
       for i in range(len(trainingData)):
         "*** YOUR CODE HERE ***"
-        #-----------------------------------------------------------------------------------------------------------------
+        #----------------------------------------------------------------------------------------------------------------
         " Find the assigned label of training data i "
         alpha = 0.01 # Learning rate
         
