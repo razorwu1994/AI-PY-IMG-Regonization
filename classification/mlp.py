@@ -44,6 +44,7 @@ class MLPClassifier:
       new_inputs = []
       for neuron in layer:
         activation = self.activate(neuron['weights'], inputs)
+        if abs(activation) > 100: activation=abs(activation)/activation*100
         neuron['output'] = self.transfer(activation)
         new_inputs.append(neuron['output'])
       inputs = new_inputs
@@ -72,7 +73,8 @@ class MLPClassifier:
         neuron = layer[j]
         neuron['delta'] = errors[j] * self.transfer_derivative(neuron['output'])
 
-  # Update network weights with error
+
+      # Update network weights with error
   def update_weights(self,network, row, l_rate):
     for i in range(len(network)):
       inputs = row[:-1]
@@ -81,47 +83,44 @@ class MLPClassifier:
       for neuron in network[i]:
         for j in range(len(inputs)):
           neuron['weights'][j] += l_rate * neuron['delta'] * inputs[j]
-        neuron['weights'][-1] += l_rate * neuron['delta']
-
+        neuron['weights'][-1] += l_rate * neuron['delta']*10**6
+        print neuron['weights'][-1]
   # Train a network for a fixed number of epochs
-  def train_network(self,network, train, l_rate, n_epoch, n_outputs):
-    for epoch in range(n_epoch):
+  def train_network(self,network, train, l_rate, n_outputs):
       sum_error = 0
-      for row in train:
-        outputs = self.forward_propagate(network, row)
-        expected = [0 for i in range(n_outputs)]
-        expected[row[-1]] = 1
-        sum_error += sum([(expected[i] - outputs[i]) ** 2 for i in range(len(expected))])
-        self.backward_propagate_error(network, expected)
-        self.update_weights(network, row, l_rate)
-      print('>epoch=%d, lrate=%.3f, error=%.3f' % (epoch, l_rate, sum_error))
+      outputs = self.forward_propagate(network, train)
+      expected = [0 for i in range(n_outputs)]
+      expected[train[-1]] = 1
+      sum_error += sum([(expected[i] - outputs[i]) ** 2 for i in range(len(expected))])
+      self.backward_propagate_error(network, expected)
+      self.update_weights(network, train, l_rate)
+      print('lrate=%.3f, error=%.3f' % (l_rate, sum_error))
 
 
 
   def train( self, trainingData, trainingLabels, validationData, validationLabels ):
     for iteration in range(self.max_iterations):
       print "Starting iteration ", iteration, "..."
+      n_inputs = len(trainingData[0])
+      n_outputs = len(self.legalLabels)
+      network = self.initialize_network(n_inputs, 28, n_outputs)
       for i in range(len(trainingData)):
-          "*** YOUR CODE HERE ***"
-          # test backpropagation of error
-          seed(1)
-          dataset = [[2.7810836, 2.550537003, 0],
-                     [1.465489372, 2.362125076, 0],
-                     [3.396561688, 4.400293529, 0],
-                     [1.38807019, 1.850220317, 0],
-                     [3.06407232, 3.005305973, 0],
-                     [7.627531214, 2.759262235, 1],
-                     [5.332441248, 2.088626775, 1],
-                     [6.922596716, 1.77106367, 1],
-                     [8.675418651, -0.242068655, 1],
-                     [7.673756466, 3.508563011, 1]]
-          n_inputs = len(dataset[0]) - 1
-          n_outputs = len(set([row[-1] for row in dataset]))
-          network = self.initialize_network(n_inputs, 2, n_outputs)
-          self.train_network(network, dataset, 0.5, 20, n_outputs)
-          for layer in network:
-            print(layer)
-    
+
+        # Test training backprop algorithm
+        seed(3)
+        trainingCluster=list()
+        trainingCluster.extend(trainingData[i].values())
+        trueLabel = trainingLabels[i]
+        trainingCluster.append(trueLabel)
+        self.train_network(network, trainingCluster, 0.5, n_outputs)
+        prediction = self.predict(network, trainingCluster)
+        print('Expected=%d, Got=%d' % (trainingCluster[-1], prediction))
+
+  # Make a prediction with a network
+  def predict(self,network, row):
+    outputs = self.forward_propagate(network, row)
+    return outputs.index(max(outputs))
+
   def classify(self, data ):
     guesses = []
     for datum in data:
