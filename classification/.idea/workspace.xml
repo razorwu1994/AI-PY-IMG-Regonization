@@ -18,8 +18,8 @@
       <file leaf-file-name="perceptron.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/perceptron.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="92" column="37" lean-forward="false" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -28,8 +28,8 @@
       <file leaf-file-name="mlp.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mlp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding>
                 <element signature="e#47#58#0" expanded="true" />
               </folding>
@@ -39,17 +39,24 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>plane</find>
+      <find>get_all_intersecting_planes</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/../../../../CS460/machine-problem/ROB-RW-BY-1/rw443&amp;byxxx/01/trilateraion.py" />
         <option value="$PROJECT_DIR$/mlp.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="665" />
-    <option name="y" value="10" />
-    <option name="width" value="1067" />
+    <option name="x" value="783" />
+    <option name="y" value="65" />
+    <option name="width" value="1295" />
     <option name="height" value="1014" />
   </component>
   <component name="ProjectView">
@@ -218,7 +225,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="665" y="10" width="1067" height="1014" extended-state="0" />
+    <frame x="783" y="65" width="1295" height="1014" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -248,18 +255,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../../CS460/machine-problem/ROB-RW-BY-1/rw443&amp;byxxx/01/trilateraion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="51" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/perceptron.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="92" column="37" lean-forward="false" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mlp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
             <element signature="e#47#58#0" expanded="true" />
           </folding>
