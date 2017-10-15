@@ -44,7 +44,7 @@ class PerceptronClassifier:
       print "Starting iteration ", iteration, "..."
       for i in range(len(trainingData)):
         "*** YOUR CODE HERE ***"
-        #-----------------------------------------------------------------------------------------------------------------
+        #----------------------------------------------------------------------------------------------------------------
         " Find the assigned label of training data i "
         alpha = 0.01 # Learning rate
         
@@ -103,7 +103,9 @@ class PerceptronClassifier:
     "*** YOUR CODE HERE ***"
     #-----------------------------------------------------------------------------------------------------------------
     sortedKeys = self.weights[label].sortedKeys()
-    featuredWeights = sortedKeys[:100] # Get the top 100 keys
+    # temp print "sortedKeys[:100]: {}\n\n\n".format(sortedKeys[:100])
+    featuresWeights = sortedKeys[:100] # Get the top 100 keys
+    # temp print "featuresWeights = {}".format(featuresWeights) 
     #-----------------------------------------------------------------------------------------------------------------
 
     return featuresWeights
