@@ -3,6 +3,7 @@
 
 # mlp implementation
 import util
+import math
 from random import random
 import numpy
 PRINT = True
@@ -118,13 +119,13 @@ class MLPClassifier:
       for i in range(len(trainingLabels)):
         if guesses[i]==trainingLabels[i]:
           correct+=1
-      print "correct : " +str(correct)+" out of "+str(len(trainingLabels)) + " "+str(float(correct)/float(len(trainingLabels)))
-      # for i in range(len(validationData)):
-      #   trainingCluster = list()
-      #   trainingCluster.extend(validationData[i].values())
-      #   trueLabel = validationLabels[i]
-      #   trainingCluster.append(trueLabel)
-      #   self.train_network(self.network, trainingCluster, 0.5, n_outputs)
+      # print "correct : " +str(correct)+" out of "+str(len(trainingLabels)) + " "+str(float(correct)/float(len(trainingLabels)))
+      for i in range(len(validationData)):
+        trainingCluster = list()
+        trainingCluster.extend(validationData[i].values())
+        trueLabel = validationLabels[i]
+        trainingCluster.append(trueLabel)
+        self.train_network(self.network, trainingCluster, 0.5, n_outputs)
 
   # Make a prediction with a network
   def predict(self,network, row):
@@ -138,7 +139,7 @@ class MLPClassifier:
       "*** YOUR CODE HERE ***"
       trainingCluster = list()
       trainingCluster.extend(datum.values())
-      guessLabel = random()
+      guessLabel = math.floor(random()*self.legalLabels)
       trainingCluster.append(guessLabel)
       prediction = self.predict(self.network, trainingCluster)
       guesses.append(prediction)
