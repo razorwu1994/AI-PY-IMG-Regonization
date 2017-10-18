@@ -101,6 +101,7 @@ class MLPClassifier:
     n_inputs = len(trainingData[0])
     n_outputs = len(self.legalLabels)
     self.network = self.initialize_network(n_inputs, 28, n_outputs)
+    guesses = []
     for iteration in range(self.max_iterations):
       print "Starting iteration ", iteration, "..."
       for i in range(len(trainingData)):
@@ -110,8 +111,20 @@ class MLPClassifier:
         trueLabel = trainingLabels[i]
         trainingCluster.append(trueLabel)
         self.train_network(self.network, trainingCluster, 0.5, n_outputs)
-        # prediction = self.predict(network, trainingCluster)
-        # print('Expected=%d, Got=%d' % (trainingCluster[-1], prediction))
+        prediction = self.predict(self.network, trainingCluster)
+        guesses.append(prediction)
+
+      correct=0
+      for i in range(len(trainingLabels)):
+        if guesses[i]==trainingLabels[i]:
+          correct+=1
+      print "correct : " +str(correct)+" out of "+str(len(trainingLabels)) + " "+str(float(correct)/float(len(trainingLabels)))
+      # for i in range(len(validationData)):
+      #   trainingCluster = list()
+      #   trainingCluster.extend(validationData[i].values())
+      #   trueLabel = validationLabels[i]
+      #   trainingCluster.append(trueLabel)
+      #   self.train_network(self.network, trainingCluster, 0.5, n_outputs)
 
   # Make a prediction with a network
   def predict(self,network, row):
@@ -125,7 +138,7 @@ class MLPClassifier:
       "*** YOUR CODE HERE ***"
       trainingCluster = list()
       trainingCluster.extend(datum.values())
-      guessLabel = 0
+      guessLabel = random()
       trainingCluster.append(guessLabel)
       prediction = self.predict(self.network, trainingCluster)
       guesses.append(prediction)
