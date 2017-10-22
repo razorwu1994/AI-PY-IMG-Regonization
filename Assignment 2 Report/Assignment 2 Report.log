@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.27)  22 OCT 2017 14:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.27)  22 OCT 2017 14:13
 entering extended mode
-**./problem-2.tex
-(problem-2.tex
+**"./Assignment 2 Report.tex"
+("Assignment 2 Report.tex"
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -53,8 +53,8 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(problem-2.aux)
-\openout1 = `problem-2.aux'.
+("Assignment 2 Report.aux")
+\openout1 = `"Assignment 2 Report.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
@@ -318,30 +318,31 @@ Overfull \hbox (82.02596pt too wide) in paragraph at lines 108--109
  []
 
 [6]
-Overfull \hbox (133.80823pt too wide) in paragraph at lines 115--116
+Overfull \hbox (133.80823pt too wide) in paragraph at lines 116--117
 []\OT1/cmr/m/n/14.4 Class 1: (0.03,0.50),(0.11,1.2),(0.5,0.75),(0.54,0.23),(0.7
 ,0.65),(0.8,0.25),(0.91,0.44); 
  []
 
 
-Overfull \hbox (28.84294pt too wide) in paragraph at lines 117--118
+Overfull \hbox (28.84294pt too wide) in paragraph at lines 118--119
 []\OT1/cmr/m/n/14.4 Class -1: (0.07,0.73),(0.23,0.49),(0.24,0.33),(0.35,0.35),(
 0.46,0.46); 
  []
 
-<Images/"problem-5a".png, id=41, 511.9125pt x 398.99063pt>
+[7 <./Images/problem-3-c.png>]
+<Images/"problem-5a".png, id=45, 511.9125pt x 398.99063pt>
 File: Images/"problem-5a".png Graphic file (type png)
 
 <use Images/"problem-5a".png>
-Package pdftex.def Info: Images/"problem-5a".png used on input line 124.
+Package pdftex.def Info: Images/"problem-5a".png used on input line 125.
 (pdftex.def)             Requested size: 307.14987pt x 239.39622pt.
- [7 <./Images/problem-3-c.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 128--140
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--140
+Underfull \hbox (badness 10000) in paragraph at lines 129--141
 
  []
 
@@ -350,10 +351,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--140
 File: Images/"problem-5b-1".png Graphic file (type png)
 
 <use Images/"problem-5b-1".png>
-Package pdftex.def Info: Images/"problem-5b-1".png used on input line 141.
+Package pdftex.def Info: Images/"problem-5b-1".png used on input line 142.
 (pdftex.def)             Requested size: 307.14987pt x 239.39622pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
  []
 
@@ -361,28 +362,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--147
 File: Images/"problem-5b-2".png Graphic file (type png)
 
 <use Images/"problem-5b-2".png>
-Package pdftex.def Info: Images/"problem-5b-2".png used on input line 148.
+Package pdftex.def Info: Images/"problem-5b-2".png used on input line 149.
 (pdftex.def)             Requested size: 361.35278pt x 271.01459pt.
- [9 <./Images/problem-5b-1.png>] [10 <./Images/problem-5b-2.png>] (problem-2.au
-x) ) 
+ [9 <./Images/problem-5b-1.png>] [10 <./Images/problem-5b-2.png>] ("Assignment 
+2 Report.aux") ) 
 Here is how much of TeX's memory you used:
  1519 strings out of 493323
- 22187 string characters out of 3139066
+ 22291 string characters out of 3139066
  81871 words of memory out of 3000000
  5066 multiletter control sequences out of 15000+200000
  6071 words of font info for 22 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,5n,25p,249b,117s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on problem-2.pdf (10 pages, 279145 bytes).
+ 39i,5n,25p,261b,117s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy7.pfb>
+Output written on "Assignment 2 Report.pdf" (10 pages, 279112 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
