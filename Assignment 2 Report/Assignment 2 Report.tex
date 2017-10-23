@@ -180,11 +180,18 @@
 	\includegraphics[scale=0.6]{"Problem 4/Line 6"}	
 	
 	\subsection{b.}
-	The linear separator that achieves perfect classification (after 172 iterations) is:
+	The linear separator that achieves perfect classification (found after 172 iterations) is:
 	$$i_2 = -0.58333i_1 + 0.83333$$
 	where $w_1 = -0.14$ and $w_2 = -0.24$.
 	
 	\subsection{c.}
+	\includegraphics[scale=1]{"Problem 4/1D Diagram"}	
+	
+	The diagram above shows only the $i_1$ value from each sample. The dotted line represents the location of the best possible split, which is at $i_1 = 0.65$, with only 2 misclassified points and a $25\%$ error. 
+	
+	A separator in 1D is $w_1i_1 + w_0i_0$ or $w_1i_1 + 0.2$ (assuming $w_0 = 0.2$) which can be used to solve for $w_1$:
+	$$w_1 = -\frac{0.2}{i_1} = -\frac{0.2}{0.65} = -0.3077$$ 
+	As a result, $w_1 = -0.3077$ is the weight that best classifies the samples.
 	
 	\section{problem 5}
 	\subsection{a.}
