@@ -13,12 +13,20 @@
 	
 	\paragraph{1.4\newline}
 	\includegraphics[scale=0.8]{"problem-1-4"}
+
 	
-	\bigskip
-	From the graph above, with smaller training sets, the perceptron performs the worse (43\% error) and the multi-layer neural network (MLP) does better with a 36\% error rate and lastly SVM performs the best (24\% error). Soon after the amount of training examples increases, the perceptron outperforms the neural network, perhaps because the perceptron can learn the weights quicker.
+	\paragraph{1.5\newline}
+	From the graph above, with smaller training sets, the perceptron performs the worse (43\% error) and the multi-layer neural network (MLP) does better with a 36\% error rate and lastly SVM performs the best (24\% error). Soon after the amount of training examples increases, the perceptron outperforms the neural network, perhaps because the perceptron can learn the weights quicker. However, the neural network overtakes the perceptron with just a slight increase in data.
 	
 	With enough training examples, the perceptron performs the worse, with a 25\% error rate and SVM comes in at 2nd with an error rate of about 18\%. The neural network performs the best with a 16\% error rate.
+
 	
+	All three methods have trouble identifying similar-looking numbers. For example, with a large amount of training samples, the perceptron identifies a 7 as a 9 and the SVM predicts a 9 to be a 3.
+	
+	To fine-tune the perceptron, we tried using several learning rates, from 0.1 to 0.0001 and settled with $\alpha = 0.01$, where the algorithm tends to perform the best. For the multi neural-network, there was choice of how many nodes should be used in the hidden layer. There was no fine-tuning needed for SVM, since the sci-kit learn package was used.
+	
+	With additional time and computational resources we would add more training examples and especially more 3s, 7s and 9s. Then the learning algorithms can better distinguish identifying features in similar looking numbers. For the multi-layer neural network, we would add more hidden layers to allow the network to classify/be more specific about the features of a number. Also, we would add a validation set as part of the algorithms.
+			
 	In short, the neural network performs the best, although all three methods improve with larger training sets and perform reasonably well with enough data.
 	
 	\pagebreak
