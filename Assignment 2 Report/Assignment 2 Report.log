@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.16)  23 OCT 2017 23:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.16)  24 OCT 2017 09:36
 entering extended mode
 **"./Assignment 2 Report.tex"
 ("Assignment 2 Report.tex"
@@ -146,10 +146,10 @@ Overfull \hbox (51.75696pt too wide) in paragraph at lines 12--13
 File: Images/"problem-1-4".png Graphic file (type png)
 
 <use Images/"problem-1-4".png>
-Package pdftex.def Info: Images/"problem-1-4".png used on input line 14.
+Package pdftex.def Info: Images/"problem-1-4".png used on input line 15.
 (pdftex.def)             Requested size: 431.81383pt x 272.21736pt.
 
-Overfull \hbox (53.5637pt too wide) in paragraph at lines 14--15
+Overfull \hbox (53.5637pt too wide) in paragraph at lines 15--16
 [] [] 
  []
 
@@ -158,11 +158,11 @@ Overfull \hbox (53.5637pt too wide) in paragraph at lines 14--15
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./Images/problem-1-3.png>
 ] [2 <./Images/problem-1-4.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 34.
+(Font)              <14.4> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 34.
+(Font)              <7> on input line 36.
 
-Overfull \hbox (28.27364pt too wide) in paragraph at lines 34--44
+Overfull \hbox (28.27364pt too wide) in paragraph at lines 36--46
 \OT1/cmr/m/n/14.4 GPA: $[3\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 9\OML/cmm/m/it/
 14.4 ; \OT1/cmr/m/n/14.4 4\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 0]$ $3(\OML/cmm
 /m/it/14.4 PPP\OT1/cmr/m/n/14.4 )$ , $(3\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 2
@@ -173,127 +173,128 @@ Overfull \hbox (28.27364pt too wide) in paragraph at lines 34--44
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--44
+Underfull \hbox (badness 10000) in paragraph at lines 36--46
 
  []
 
 
-Overfull \hbox (49.0988pt too wide) in paragraph at lines 34--44
+Overfull \hbox (49.0988pt too wide) in paragraph at lines 36--46
 \OT1/cmr/m/n/14.4 Gain(GPA)=1-[$[]$ B($[]$)+$[]$ B($[]$)+$[]$ B($[]$)]=1-[0.0+0
 .404562747689+0.0]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--44
+Underfull \hbox (badness 10000) in paragraph at lines 36--46
 
  []
 
 
-Overfull \hbox (47.87782pt too wide) in paragraph at lines 34--44
+Overfull \hbox (47.87782pt too wide) in paragraph at lines 36--46
 \OT1/cmr/m/n/14.4 1-[0.404562747689+0.229573958514+0.270426041486] =0.095437252
 395 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--44
+Underfull \hbox (badness 10000) in paragraph at lines 36--46
 
  []
 
 
-Overfull \hbox (94.42119pt too wide) in paragraph at lines 34--44
+Overfull \hbox (94.42119pt too wide) in paragraph at lines 36--46
 \OT1/cmr/m/n/14.4 Gain(Publication)=1-[$[]$ B($[]$)+$[]$ B($[]$)]=1-[0.40456274
 7689+0.574716412687]=
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--44
+Underfull \hbox (badness 10000) in paragraph at lines 36--46
 
  []
 
 
-Overfull \hbox (70.63147pt too wide) in paragraph at lines 34--44
+Overfull \hbox (70.63147pt too wide) in paragraph at lines 36--46
 \OT1/cmr/m/n/14.4 1-[$[]$ B($[]$)+$[]$ B($[]$)]=1-[0.636289335283+0.27042604148
 6]= 0.093284623231 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--44
+Underfull \hbox (badness 10000) in paragraph at lines 36--46
 
  []
 
-<Images/"problem-2-step1".png, id=14, 602.25pt x 301.125pt>
+[3] <Images/"problem-2-step1".png, id=19, 602.25pt x 301.125pt>
 File: Images/"problem-2-step1".png Graphic file (type png)
 
 <use Images/"problem-2-step1".png>
-Package pdftex.def Info: Images/"problem-2-step1".png used on input line 47.
+Package pdftex.def Info: Images/"problem-2-step1".png used on input line 49.
 (pdftex.def)             Requested size: 481.80064pt x 240.90031pt.
 
-Overfull \hbox (109.42546pt too wide) in paragraph at lines 47--49
+Overfull \hbox (109.42546pt too wide) in paragraph at lines 49--51
 [][]
  []
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 50--60
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--62
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--60
+Underfull \hbox (badness 10000) in paragraph at lines 52--62
 
  []
 
 
-Overfull \hbox (40.55504pt too wide) in paragraph at lines 50--60
+Overfull \hbox (40.55504pt too wide) in paragraph at lines 52--62
 \OT1/cmr/m/n/14.4 Gain(Publication)=0.970950594455-[$[]$ B($[]$)+$[]$ B($[]$)]=
 0.970950594455-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--60
+Underfull \hbox (badness 10000) in paragraph at lines 52--62
 
  []
 
 
-Overfull \hbox (26.73668pt too wide) in paragraph at lines 50--60
+Overfull \hbox (26.73668pt too wide) in paragraph at lines 52--62
 \OT1/cmr/m/n/14.4 Gain(Recommendation)=0.970950594455-[$[]$ B($[]$)]=0.97095059
 4455-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--60
+Underfull \hbox (badness 10000) in paragraph at lines 52--62
 
- []
-
-<Images/"problem-2-step2".png, id=20, 602.25pt x 301.125pt>
-File: Images/"problem-2-step2".png Graphic file (type png)
-
-<use Images/"problem-2-step2".png>
-Package pdftex.def Info: Images/"problem-2-step2".png used on input line 63.
-(pdftex.def)             Requested size: 481.80064pt x 240.90031pt.
-
-Overfull \hbox (109.42546pt too wide) in paragraph at lines 63--65
-[][]
  []
 
 [4 <./Images/problem-2-step1.png>]
-Overfull \hbox (82.84476pt too wide) in paragraph at lines 66--71
+<Images/"problem-2-step2".png, id=24, 602.25pt x 301.125pt>
+File: Images/"problem-2-step2".png Graphic file (type png)
+
+<use Images/"problem-2-step2".png>
+Package pdftex.def Info: Images/"problem-2-step2".png used on input line 65.
+(pdftex.def)             Requested size: 481.80064pt x 240.90031pt.
+
+Overfull \hbox (109.42546pt too wide) in paragraph at lines 65--67
+[][]
+ []
+
+
+Overfull \hbox (82.84476pt too wide) in paragraph at lines 68--73
 \OT1/cmr/m/n/14.4 Gain(University)=0.918295834054-[$[]$ B($[]$)+$[]$ B($[]$)+$[
 ]$ B($[]$)]=0.918295834054-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--71
+Underfull \hbox (badness 10000) in paragraph at lines 68--73
 
  []
 
 
-Overfull \hbox (26.73668pt too wide) in paragraph at lines 66--71
+Overfull \hbox (26.73668pt too wide) in paragraph at lines 68--73
 \OT1/cmr/m/n/14.4 Gain(Recommendation)=0.918295834054-[$[]$ B($[]$)]=0.91829583
 4054-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--71
+Underfull \hbox (badness 10000) in paragraph at lines 68--73
 
  []
 
@@ -301,10 +302,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--71
 File: Images/"problem-2-step3".png Graphic file (type png)
 
 <use Images/"problem-2-step3".png>
-Package pdftex.def Info: Images/"problem-2-step3".png used on input line 74.
+Package pdftex.def Info: Images/"problem-2-step3".png used on input line 76.
 (pdftex.def)             Requested size: 481.80064pt x 240.90031pt.
 
-Overfull \hbox (109.42546pt too wide) in paragraph at lines 74--75
+Overfull \hbox (109.42546pt too wide) in paragraph at lines 76--77
 [][] 
  []
 
@@ -313,17 +314,17 @@ Overfull \hbox (109.42546pt too wide) in paragraph at lines 74--75
 File: Images/"problem-2-final".png Graphic file (type png)
 
 <use Images/"problem-2-final".png>
-Package pdftex.def Info: Images/"problem-2-final".png used on input line 79.
+Package pdftex.def Info: Images/"problem-2-final".png used on input line 81.
 (pdftex.def)             Requested size: 361.35278pt x 271.01459pt.
  [6 <./Images/problem-2-step3.png> <./Images/problem-2-final.png>] [7]
 <Images/"problem-3-a-copy".png, id=40, 757.32938pt x 514.92375pt>
 File: Images/"problem-3-a-copy".png Graphic file (type png)
 
 <use Images/"problem-3-a-copy".png>
-Package pdftex.def Info: Images/"problem-3-a-copy".png used on input line 93.
+Package pdftex.def Info: Images/"problem-3-a-copy".png used on input line 95.
 (pdftex.def)             Requested size: 454.40114pt x 308.95662pt.
 
-Overfull \hbox (82.02596pt too wide) in paragraph at lines 93--94
+Overfull \hbox (82.02596pt too wide) in paragraph at lines 95--96
 [][] 
  []
 
@@ -332,10 +333,10 @@ Overfull \hbox (82.02596pt too wide) in paragraph at lines 93--94
 File: Images/"problem-3-c".png Graphic file (type png)
 
 <use Images/"problem-3-c".png>
-Package pdftex.def Info: Images/"problem-3-c".png used on input line 124.
+Package pdftex.def Info: Images/"problem-3-c".png used on input line 126.
 (pdftex.def)             Requested size: 454.40114pt x 308.95662pt.
 
-Overfull \hbox (82.02596pt too wide) in paragraph at lines 124--125
+Overfull \hbox (82.02596pt too wide) in paragraph at lines 126--127
 [][] 
  []
 
@@ -345,50 +346,50 @@ t>
 File: Images/"Problem 4/Initial Linear Separator".png Graphic file (type png)
  <use Images/"Problem 4/Initial Linear Separator".png>
 Package pdftex.def Info: Images/"Problem 4/Initial Linear Separator".png used o
-n input line 134.
+n input line 136.
 (pdftex.def)             Requested size: 264.51024pt x 270.65324pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 139.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 141.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 139.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 141.
  [11 <./Images/Problem 4/Initial Linear Separator.png>] [12]
 <Images/"Problem 4/Line 2".png, id=65, 478.1865pt x 473.3685pt>
 File: Images/"Problem 4/Line 2".png Graphic file (type png)
 
 <use Images/"Problem 4/Line 2".png>
-Package pdftex.def Info: Images/"Problem 4/Line 2".png used on input line 171.
+Package pdftex.def Info: Images/"Problem 4/Line 2".png used on input line 173.
 (pdftex.def)             Requested size: 286.91411pt x 284.02328pt.
 
 <Images/"Problem 4/Line 3".png, id=66, 387.849pt x 405.9165pt>
 File: Images/"Problem 4/Line 3".png Graphic file (type png)
 
 <use Images/"Problem 4/Line 3".png>
-Package pdftex.def Info: Images/"Problem 4/Line 3".png used on input line 179.
+Package pdftex.def Info: Images/"Problem 4/Line 3".png used on input line 181.
 (pdftex.def)             Requested size: 232.71118pt x 243.55177pt.
  [13 <./Images/Problem 4/Line 2.png>]
 <Images/"Problem 4/Line 4".png, id=72, 396.88275pt x 398.08725pt>
 File: Images/"Problem 4/Line 4".png Graphic file (type png)
 
 <use Images/"Problem 4/Line 4".png>
-Package pdftex.def Info: Images/"Problem 4/Line 4".png used on input line 185.
+Package pdftex.def Info: Images/"Problem 4/Line 4".png used on input line 187.
 (pdftex.def)             Requested size: 238.13148pt x 238.85419pt.
  [14 <./Images/Problem 4/Line 3.png> <./Images/Problem 4/Line 4.png>]
 <Images/"Problem 4/Line 5".png, id=78, 398.08725pt x 395.67825pt>
 File: Images/"Problem 4/Line 5".png Graphic file (type png)
 
 <use Images/"Problem 4/Line 5".png>
-Package pdftex.def Info: Images/"Problem 4/Line 5".png used on input line 191.
+Package pdftex.def Info: Images/"Problem 4/Line 5".png used on input line 193.
 (pdftex.def)             Requested size: 238.85419pt x 237.40877pt.
 
 <Images/"Problem 4/Line 6".png, id=79, 387.24675pt x 405.31425pt>
 File: Images/"Problem 4/Line 6".png Graphic file (type png)
 
 <use Images/"Problem 4/Line 6".png>
-Package pdftex.def Info: Images/"Problem 4/Line 6".png used on input line 197.
+Package pdftex.def Info: Images/"Problem 4/Line 6".png used on input line 199.
 (pdftex.def)             Requested size: 232.34982pt x 243.19043pt.
  [15 <./Images/Problem 4/Line 5.png>]
 <Images/"Problem 4/Best Line".png, id=84, 423.984pt x 420.3705pt>
@@ -396,7 +397,7 @@ File: Images/"Problem 4/Best Line".png Graphic file (type png)
 
 <use Images/"Problem 4/Best Line".png>
 Package pdftex.def Info: Images/"Problem 4/Best Line".png used on input line 20
-5.
+7.
 (pdftex.def)             Requested size: 254.39235pt x 252.22424pt.
  [16 <./Images/Problem 4/Line 6.png>]
 <Images/"Problem 4/1D Diagram".png, id=89, 333.6465pt x 64.44075pt>
@@ -404,17 +405,17 @@ File: Images/"Problem 4/1D Diagram".png Graphic file (type png)
 
 <use Images/"Problem 4/1D Diagram".png>
 Package pdftex.def Info: Images/"Problem 4/1D Diagram".png used on input line 2
-11.
+13.
 (pdftex.def)             Requested size: 333.64568pt x 64.44058pt.
  [17 <./Images/Problem 4/Best Line.png> <./Images/Problem 4/1D Diagram.png>] [1
 8]
-Overfull \hbox (133.80823pt too wide) in paragraph at lines 226--227
+Overfull \hbox (133.80823pt too wide) in paragraph at lines 228--229
 []\OT1/cmr/m/n/14.4 Class 1: (0.03,0.50),(0.11,1.2),(0.5,0.75),(0.54,0.23),(0.7
 ,0.65),(0.8,0.25),(0.91,0.44); 
  []
 
 
-Overfull \hbox (28.84294pt too wide) in paragraph at lines 228--229
+Overfull \hbox (28.84294pt too wide) in paragraph at lines 230--231
 []\OT1/cmr/m/n/14.4 Class -1: (0.07,0.73),(0.23,0.49),(0.24,0.33),(0.35,0.35),(
 0.46,0.46); 
  []
@@ -423,15 +424,15 @@ Overfull \hbox (28.84294pt too wide) in paragraph at lines 228--229
 File: Images/"problem-5a".png Graphic file (type png)
 
 <use Images/"problem-5a".png>
-Package pdftex.def Info: Images/"problem-5a".png used on input line 235.
+Package pdftex.def Info: Images/"problem-5a".png used on input line 237.
 (pdftex.def)             Requested size: 307.14987pt x 239.39622pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--251
+Underfull \hbox (badness 10000) in paragraph at lines 241--253
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--251
+Underfull \hbox (badness 10000) in paragraph at lines 241--253
 
  []
 
@@ -440,10 +441,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 239--251
 File: Images/"problem-5b-1".png Graphic file (type png)
 
 <use Images/"problem-5b-1".png>
-Package pdftex.def Info: Images/"problem-5b-1".png used on input line 252.
+Package pdftex.def Info: Images/"problem-5b-1".png used on input line 254.
 (pdftex.def)             Requested size: 307.14987pt x 239.39622pt.
  [20 <./Images/problem-5b-1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 257--258
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
 
  []
 
@@ -451,7 +452,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--258
 File: Images/"problem-5b-2".png Graphic file (type png)
 
 <use Images/"problem-5b-2".png>
-Package pdftex.def Info: Images/"problem-5b-2".png used on input line 259.
+Package pdftex.def Info: Images/"problem-5b-2".png used on input line 261.
 (pdftex.def)             Requested size: 361.35278pt x 271.01459pt.
  [21 <./Images/problem-5b-2.png>]
 ("Assignment 2 Report.aux") ) 
@@ -462,7 +463,7 @@ Here is how much of TeX's memory you used:
  5111 multiletter control sequences out of 15000+200000
  6071 words of font info for 22 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,5n,25p,407b,175s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,5n,25p,428b,175s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10
@@ -473,7 +474,7 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmsy7.pfb>
-Output written on "Assignment 2 Report.pdf" (21 pages, 577597 bytes).
+Output written on "Assignment 2 Report.pdf" (21 pages, 530802 bytes).
 PDF statistics:
  142 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
