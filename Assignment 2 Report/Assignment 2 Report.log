@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.16)  24 OCT 2017 09:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.16)  24 OCT 2017 10:21
 entering extended mode
 **"./Assignment 2 Report.tex"
 ("Assignment 2 Report.tex"
@@ -162,7 +162,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 36.
 
-Overfull \hbox (28.27364pt too wide) in paragraph at lines 36--46
+Overfull \hbox (28.27364pt too wide) in paragraph at lines 36--38
 \OT1/cmr/m/n/14.4 GPA: $[3\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 9\OML/cmm/m/it/
 14.4 ; \OT1/cmr/m/n/14.4 4\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 0]$ $3(\OML/cmm
 /m/it/14.4 PPP\OT1/cmr/m/n/14.4 )$ , $(3\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 2
@@ -173,158 +173,122 @@ Overfull \hbox (28.27364pt too wide) in paragraph at lines 36--46
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--46
+Underfull \hbox (badness 10000) in paragraph at lines 39--47
 
  []
 
 
-Overfull \hbox (49.0988pt too wide) in paragraph at lines 36--46
-\OT1/cmr/m/n/14.4 Gain(GPA)=1-[$[]$ B($[]$)+$[]$ B($[]$)+$[]$ B($[]$)]=1-[0.0+0
-.404562747689+0.0]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--46
+Underfull \hbox (badness 10000) in paragraph at lines 39--47
 
  []
 
 
-Overfull \hbox (47.87782pt too wide) in paragraph at lines 36--46
-\OT1/cmr/m/n/14.4 1-[0.404562747689+0.229573958514+0.270426041486] =0.095437252
-395 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--46
+Underfull \hbox (badness 10000) in paragraph at lines 39--47
 
  []
 
 
-Overfull \hbox (94.42119pt too wide) in paragraph at lines 36--46
-\OT1/cmr/m/n/14.4 Gain(Publication)=1-[$[]$ B($[]$)+$[]$ B($[]$)]=1-[0.40456274
-7689+0.574716412687]=
+Overfull \hbox (9.82225pt too wide) in paragraph at lines 39--47
+\OT1/cmr/m/n/14.4 Gain(Publication)=1-[$[]$ B($[]$)+$[]$ B($[]$)]=1-[0.405+0.57
+5]= 0.0207 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--46
+Underfull \hbox (badness 10000) in paragraph at lines 39--47
 
  []
 
 
-Overfull \hbox (70.63147pt too wide) in paragraph at lines 36--46
-\OT1/cmr/m/n/14.4 1-[$[]$ B($[]$)+$[]$ B($[]$)]=1-[0.636289335283+0.27042604148
-6]= 0.093284623231 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--46
+Underfull \hbox (badness 10000) in paragraph at lines 39--47
 
  []
 
-[3] <Images/"problem-2-step1".png, id=19, 602.25pt x 301.125pt>
+[3] <Images/"problem-2-step1".png, id=20, 602.25pt x 301.125pt>
 File: Images/"problem-2-step1".png Graphic file (type png)
 
 <use Images/"problem-2-step1".png>
-Package pdftex.def Info: Images/"problem-2-step1".png used on input line 49.
+Package pdftex.def Info: Images/"problem-2-step1".png used on input line 50.
 (pdftex.def)             Requested size: 481.80064pt x 240.90031pt.
 
-Overfull \hbox (109.42546pt too wide) in paragraph at lines 49--51
+Overfull \hbox (109.42546pt too wide) in paragraph at lines 50--52
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--62
+Underfull \hbox (badness 10000) in paragraph at lines 53--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--62
+Underfull \hbox (badness 10000) in paragraph at lines 53--63
 
  []
 
 
-Overfull \hbox (40.55504pt too wide) in paragraph at lines 52--62
-\OT1/cmr/m/n/14.4 Gain(Publication)=0.970950594455-[$[]$ B($[]$)+$[]$ B($[]$)]=
-0.970950594455-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--62
+Underfull \hbox (badness 10000) in paragraph at lines 53--63
 
  []
 
 
-Overfull \hbox (26.73668pt too wide) in paragraph at lines 52--62
-\OT1/cmr/m/n/14.4 Gain(Recommendation)=0.970950594455-[$[]$ B($[]$)]=0.97095059
-4455-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--62
+Underfull \hbox (badness 10000) in paragraph at lines 53--63
 
  []
 
 [4 <./Images/problem-2-step1.png>]
-<Images/"problem-2-step2".png, id=24, 602.25pt x 301.125pt>
+<Images/"problem-2-step2".png, id=25, 602.25pt x 301.125pt>
 File: Images/"problem-2-step2".png Graphic file (type png)
 
 <use Images/"problem-2-step2".png>
-Package pdftex.def Info: Images/"problem-2-step2".png used on input line 65.
+Package pdftex.def Info: Images/"problem-2-step2".png used on input line 66.
 (pdftex.def)             Requested size: 481.80064pt x 240.90031pt.
 
-Overfull \hbox (109.42546pt too wide) in paragraph at lines 65--67
+Overfull \hbox (109.42546pt too wide) in paragraph at lines 66--68
 [][]
  []
 
 
-Overfull \hbox (82.84476pt too wide) in paragraph at lines 68--73
-\OT1/cmr/m/n/14.4 Gain(University)=0.918295834054-[$[]$ B($[]$)+$[]$ B($[]$)+$[
-]$ B($[]$)]=0.918295834054-
+Overfull \hbox (103.99448pt too wide) in paragraph at lines 69--74
+\OT1/cmr/m/n/14.4 Gain(University)=0.9183-[$[]$ B($[]$)+$[]$ B($[]$)+$[]$ B($[]
+$)]=0.9183-[0.0+0.0+0.0]=0.9183 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--73
+Underfull \hbox (badness 10000) in paragraph at lines 69--74
 
  []
 
 
-Overfull \hbox (26.73668pt too wide) in paragraph at lines 68--73
-\OT1/cmr/m/n/14.4 Gain(Recommendation)=0.918295834054-[$[]$ B($[]$)]=0.91829583
-4054-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--73
+Underfull \hbox (badness 10000) in paragraph at lines 69--74
 
  []
 
-<Images/"problem-2-step3".png, id=25, 602.25pt x 301.125pt>
+<Images/"problem-2-step3".png, id=26, 602.25pt x 301.125pt>
 File: Images/"problem-2-step3".png Graphic file (type png)
 
 <use Images/"problem-2-step3".png>
-Package pdftex.def Info: Images/"problem-2-step3".png used on input line 76.
+Package pdftex.def Info: Images/"problem-2-step3".png used on input line 77.
 (pdftex.def)             Requested size: 481.80064pt x 240.90031pt.
 
-Overfull \hbox (109.42546pt too wide) in paragraph at lines 76--77
+Overfull \hbox (109.42546pt too wide) in paragraph at lines 77--78
 [][] 
  []
 
 [5 <./Images/problem-2-step2.png>]
-<Images/"problem-2-final".png, id=30, 602.25pt x 451.6875pt>
+<Images/"problem-2-final".png, id=31, 602.25pt x 451.6875pt>
 File: Images/"problem-2-final".png Graphic file (type png)
 
 <use Images/"problem-2-final".png>
-Package pdftex.def Info: Images/"problem-2-final".png used on input line 81.
+Package pdftex.def Info: Images/"problem-2-final".png used on input line 82.
 (pdftex.def)             Requested size: 361.35278pt x 271.01459pt.
  [6 <./Images/problem-2-step3.png> <./Images/problem-2-final.png>] [7]
-<Images/"problem-3-a-copy".png, id=40, 757.32938pt x 514.92375pt>
+<Images/"problem-3-a-copy".png, id=41, 757.32938pt x 514.92375pt>
 File: Images/"problem-3-a-copy".png Graphic file (type png)
 
 <use Images/"problem-3-a-copy".png>
-Package pdftex.def Info: Images/"problem-3-a-copy".png used on input line 95.
+Package pdftex.def Info: Images/"problem-3-a-copy".png used on input line 96.
 (pdftex.def)             Requested size: 454.40114pt x 308.95662pt.
 
-Overfull \hbox (82.02596pt too wide) in paragraph at lines 95--96
+Overfull \hbox (82.02596pt too wide) in paragraph at lines 96--97
 [][] 
  []
 
@@ -474,7 +438,7 @@ TeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmsy7.pfb>
-Output written on "Assignment 2 Report.pdf" (21 pages, 530802 bytes).
+Output written on "Assignment 2 Report.pdf" (21 pages, 579545 bytes).
 PDF statistics:
  142 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
